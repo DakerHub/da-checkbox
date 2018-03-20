@@ -1,20 +1,21 @@
 {
-  "name": "dCheckbox.css",
-  "version": "1.0.0",
-  "description": "your plugin description",
-  "main": "index.css",
+  "name": "da-checkbox.css",
+  "version": "1.0.1",
+  "description": "A css style sheet for better looking checkbox",
+  "main": "da-checkbox.css",
+  "style": "da-checkbox.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "parcel build index.css -d build"
+    "build": "parcel build da-checkbox.css -d build"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-github/your-repository.git"
+    "url": "https://github.com/tony-cn/da-checkbox.git"
   },
   "keywords": [],
-  "author": "your-name",
+  "author": "Daker",
   "license": "MIT",
-  "homepage": "https://github.com/your-github/your-repository/#README.md",
+  "homepage": "https://github.com/tony-cn/da-checkbox/#README.md",
   "dependencies": {
   }
 }
