@@ -1,11 +1,11 @@
 {
-  "name": "your-plugin-name",
+  "name": "dCheckbox.css",
   "version": "1.0.0",
   "description": "your plugin description",
-  "main": "index.js",
+  "main": "index.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "parcel build index.js -d build"
+    "build": "parcel build index.css -d build"
   },
   "repository": {
     "type": "git",
