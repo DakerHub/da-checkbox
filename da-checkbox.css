@@ -15,8 +15,9 @@
 }
 .check-box-wrap input{
     position: absolute;
-    left: 0;
-    top: 0;
+    left: 2px;
+    top: 2px;
+    opacity: 0;
 }
 .check-box-wrap input:checked+label::after{
     content: '';
