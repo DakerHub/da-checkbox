@@ -1,6 +1,6 @@
 {
   "name": "da-checkbox.css",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A css style sheet for better looking checkbox",
   "main": "da-checkbox.css",
   "style": "da-checkbox.css",
